@@ -16,7 +16,7 @@ Shipping mcp-scan v2 (17 AI clients, 17 check classes) and building a public MCP
 
 | [mcp-scan on npm](https://www.npmjs.com/package/mcp-scan) | [MCP Security Review Preview](https://github.com/Abanoub-Rodolf/mcp-security-review-preview) | [MCP Server Starter Demo](https://github.com/Abanoub-Rodolf/mcp-server-starter-demo) |
 | --- | --- | --- |
-| Security scanner for MCP server configs: secrets, prompt injection, supply chain, permission scope. One command: `npx mcp-scan@latest`. Source: [GitHub](https://github.com/Abanoub-Rodolf/mcp-scan). | A free evidence-first preflight for MCP configurations. It keeps raw scanner evidence out of model-facing output, validates the report shape, and reports only server and severity counts. | A small TypeScript MCP server built with the official SDK and Zod. Its two tools are in-memory only, with no file, network, subprocess, or secret access. |
+| Security scanner for MCP server configs: secrets, prompt injection, supply chain, permission scope. One command: `npx mcp-scan@latest` (macOS: `brew install mcp-scan`). Source: [GitHub](https://github.com/Abanoub-Rodolf/mcp-scan). | A free evidence-first preflight for MCP configurations. It keeps raw scanner evidence out of model-facing output, validates the report shape, and reports only server and severity counts. | A small TypeScript MCP server built with the official SDK and Zod. Its two tools are in-memory only, with no file, network, subprocess, or secret access. |
 | [Scan your configs](https://www.npmjs.com/package/mcp-scan) | [Open the security preflight](https://github.com/Abanoub-Rodolf/mcp-security-review-preview) | [Run the server demo](https://github.com/Abanoub-Rodolf/mcp-server-starter-demo) |
 | [MCP Security Evidence Redactor](https://github.com/Abanoub-Rodolf/mcp-security-evidence-redactor) | | |
 | A dependency-free utility that turns a JSON findings report into safe severity-count summaries for CI logs and model-facing output. | | |
@@ -32,6 +32,7 @@ If any of these save you time, a star helps other MCP builders find them.
 ## More public work
 
 - [Applied research](https://thynkq.com/research): technical writing, source links, and current experiments
+- [The State of MCP Security](https://thynkq.com/writing/state-of-mcp-security-2026-08): ecosystem size, real scan data, and the incidents behind the headlines
 - [Proof ledger](https://thynkq.com/proof): public claims tied to their evidence and boundaries
 - [Hacker News](https://news.ycombinator.com/user?id=AbanoubRodolf)
 
