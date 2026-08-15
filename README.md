@@ -1,22 +1,41 @@
 # Abanoub Rodolf Boctor
 
-Founder and engineering lead at [ThynkQ](https://thynkq.com). New York City.
+**AI Enablement & Deployment Leader** · Production LLM Systems · Enterprise Adoption · Agents, MCP & Developer Workflows
 
-I build production AI systems, agent infrastructure, and developer security tooling.
+I build AI systems people can adopt, operate, and trust. Work spans AI enablement, enterprise deployment, agents, RAG evaluation, MCP security, and human-in-the-loop operations. Approach to safety is practical: test real failure modes, protect connected tools and data, preserve human judgment, own what happens after launch.
 
-## Shipping
+**Selected work:** [mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan) | RAG evaluation tooling
 
-- **[mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan)** — open-source MCP server security scanner. Audits 17 AI tool clients for secrets, prompt injection, and supply-chain risk. `npx mcp-scan@latest`
-- **[ProTeach](https://proteachhomelearning.com)** — homeschool platform: certified teachers craft weekly lessons per child, 17 learning games, realtime chat, and portals for parents, kids, and teachers.
-- **Power Liens** — operations platform for a medical-liens firm (Next.js, Firebase, Stripe).
-- **rag-eval-toolkit** — RAG evaluation harness.
+**New York City** · U.S. permanent work authorization · No sponsorship required · Open to NYC and U.S. remote leadership roles
 
-## Stack
+---
+
+### Projects
+
+**[mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan)** — open-source TypeScript security scanner for Model Context Protocol configs: tool poisoning, prompt injection, credential leakage, data exfiltration, supply-chain risk. On [npm](https://www.npmjs.com/package/mcp-scan), SARIF 2.1.0 output, Homebrew tap. `npx mcp-scan@latest`
+
+**[ProTeach](https://proteachhomelearning.com)** — homeschool platform: certified teachers craft weekly lessons per child, 17 learning games, realtime chat, portals for parents/kids/teachers.
+
+**RAG Evaluation Tooling** — Python workflows for RAG evaluation with LLM-as-judge scoring, retrieval metrics, and hallucination checks.
+
+**[ThynkQ](https://thynkq.com)** — AI engineering studio: MVP development, AI integration, fractional CTO.
+
+---
+
+### Career
+
+| Company | Role | Impact |
+|---------|------|--------|
+| **Power Liens** | Head of AI & Engineering | Own product architecture and production systems for a legal-operations platform: CRM, intake, provider search, case tracking; building AI-assisted intake automation. |
+| **Meta** *(contract)* | AI Trust & Safety Analyst | Red-teamed LLaMA models through systematic adversarial testing. |
+
+---
+
+### Stack
 
 TypeScript · Next.js · React · Vercel · Firebase · Stripe · Python · Docker · CI/CD
 
-## Links
+### Links
 
 - Agency: [thynkq.com](https://thynkq.com)
-- mcp-scan docs: [github.com/Abanoub-Rodolf/mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan)
 - Email: abanoub.rodolf@gmail.com
