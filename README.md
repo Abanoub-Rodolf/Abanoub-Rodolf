@@ -4,7 +4,8 @@
 
 I build AI systems people can adopt, operate, and trust. Work spans AI enablement, enterprise deployment, agents, RAG evaluation, MCP security, and human-in-the-loop operations. Approach to safety is practical: test real failure modes, protect connected tools and data, preserve human judgment, own what happens after launch.
 
-**Selected work:** [mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan) | RAG evaluation tooling
+[![mcp-scan on npm](https://img.shields.io/npm/dm/mcp-scan?label=mcp-scan%20downloads&color=005bb5)](https://www.npmjs.com/package/mcp-scan)
+[![rag-eval-toolkit on PyPI](https://img.shields.io/pypi/v/rag-eval-toolkit?label=rag-eval-toolkit&color=005bb5)](https://pypi.org/project/rag-eval-toolkit/)
 
 **New York City** · U.S. permanent work authorization · No sponsorship required · Open to NYC and U.S. remote leadership roles
 
@@ -16,7 +17,9 @@ I build AI systems people can adopt, operate, and trust. Work spans AI enablemen
 
 **[ProTeach](https://proteachhomelearning.com)** — homeschool platform: certified teachers craft weekly lessons per child, 17 learning games, realtime chat, portals for parents/kids/teachers.
 
-**RAG Evaluation Tooling** — Python workflows for RAG evaluation with LLM-as-judge scoring, retrieval metrics, and hallucination checks.
+**[rag-eval-toolkit](https://pypi.org/project/rag-eval-toolkit/)** — Python toolkit for evaluating RAG pipelines: LLM-as-judge scoring, retrieval metrics, hallucination checks. On [PyPI](https://pypi.org/project/rag-eval-toolkit/), MIT. `pip install rag-eval-toolkit`
+
+**[Colibri](https://github.com/Abanoub-Rodolf/GLM)** — run GLM-5.2 (744B-parameter MoE) on a 25GB-RAM consumer machine. Pure C, zero dependencies, experts streamed from disk.
 
 **[ThynkQ](https://thynkq.com)** — AI engineering studio: MVP development, AI integration, fractional CTO.
 
@@ -26,7 +29,7 @@ I build AI systems people can adopt, operate, and trust. Work spans AI enablemen
 
 | Company | Role | Impact |
 |---------|------|--------|
-| **Power Liens** | Head of AI & Engineering | Own product architecture and production systems for a legal-operations platform: CRM, intake, provider search, case tracking; building AI-assisted intake automation. |
+| **PowerLiens** | Head of AI & Engineering | Own product architecture and production systems for a legal-operations platform: CRM, intake, provider search, case tracking; building AI-assisted intake automation. |
 | **Meta** *(contract)* | AI Trust & Safety Analyst | Red-teamed LLaMA models through systematic adversarial testing. |
 
 ---
