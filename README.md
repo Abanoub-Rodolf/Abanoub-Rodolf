@@ -19,7 +19,7 @@ I build AI systems people can adopt, operate, and trust. Work spans AI enablemen
 
 **[rag-eval-toolkit](https://pypi.org/project/rag-eval-toolkit/)** — Python toolkit for evaluating RAG pipelines: LLM-as-judge scoring, retrieval metrics, hallucination checks. On [PyPI](https://pypi.org/project/rag-eval-toolkit/), MIT. `pip install rag-eval-toolkit`
 
-**[Colibri](https://github.com/Abanoub-Rodolf/GLM)** — run GLM-5.2 (744B-parameter MoE) on a 25GB-RAM consumer machine. Pure C, zero dependencies, experts streamed from disk.
+**[Colibri](https://github.com/Abanoub-Rodolf/colibri)** — run GLM-5.2 (744B-parameter MoE) on a 25GB-RAM consumer machine. Pure C, zero dependencies, experts streamed from disk.
 
 **[ThynkQ](https://thynkq.com)** — AI engineering studio: MVP development, AI integration, fractional CTO.
 
