@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abanoub-Rodolf/Abanoub-Rodolf/main/assets/banner-dark.svg">
-  <img alt="Abanoub Rodolf, AI Enablement & Deployment Leader" src="https://raw.githubusercontent.com/Abanoub-Rodolf/Abanoub-Rodolf/main/assets/banner-light.svg" width="100%">
+  <img alt="Abanoub Rodolf, MCP security and production AI systems" src="https://raw.githubusercontent.com/Abanoub-Rodolf/Abanoub-Rodolf/main/assets/banner-light.svg" width="100%">
 </picture>
 
 Production LLM Systems · Enterprise Adoption · Agents, MCP & Developer Workflows

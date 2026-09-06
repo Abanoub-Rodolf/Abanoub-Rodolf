@@ -7,6 +7,6 @@
   </defs>
   <rect x="0.5" y="0.5" width="1199" height="239" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
   <text x="64" y="130" font-family="-apple-system, 'SF Pro Display', Inter, 'Segoe UI', sans-serif" font-size="46" font-weight="700" fill="#e6edf3">Abanoub Rodolf</text>
-  <text x="64" y="168" font-family="-apple-system, 'SF Pro Display', Inter, 'Segoe UI', sans-serif" font-size="21" font-weight="500" fill="#58a6ff">AI Enablement &amp; Deployment Leader</text>
+  <text x="64" y="168" font-family="-apple-system, 'SF Pro Display', Inter, 'Segoe UI', sans-serif" font-size="21" font-weight="500" fill="#58a6ff">MCP security &#183; production AI systems</text>
   <text x="1136" y="196" text-anchor="end" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="16" fill="#8b949e"><tspan fill="#58a6ff">$</tspan> npx mcp-scan@latest</text>
 </svg>
