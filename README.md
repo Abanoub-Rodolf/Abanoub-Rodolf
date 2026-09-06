@@ -1,6 +1,9 @@
-# Abanoub Rodolf Boctor
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abanoub-Rodolf/Abanoub-Rodolf/main/assets/banner-dark.svg">
+  <img alt="Abanoub Rodolf, MCP security and production AI systems" src="https://raw.githubusercontent.com/Abanoub-Rodolf/Abanoub-Rodolf/main/assets/banner-light.svg" width="100%">
+</picture>
 
-**AI Enablement & Deployment Leader** · Production LLM Systems · Enterprise Adoption · Agents, MCP & Developer Workflows
+Production LLM Systems · Enterprise Adoption · Agents, MCP & Developer Workflows
 
 I build AI systems people can adopt, operate, and trust. Work spans AI enablement, enterprise deployment, agents, RAG evaluation, MCP security, and human-in-the-loop operations. Approach to safety is practical: test real failure modes, protect connected tools and data, preserve human judgment, own what happens after launch.
 
@@ -13,13 +16,13 @@ I build AI systems people can adopt, operate, and trust. Work spans AI enablemen
 
 ### Projects
 
-**[mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan)** — open-source TypeScript security scanner for Model Context Protocol configs: tool poisoning, prompt injection, credential leakage, data exfiltration, supply-chain risk. On [npm](https://www.npmjs.com/package/mcp-scan), SARIF 2.1.0 output, Homebrew tap. `npx mcp-scan@latest`
+**[mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan)**: open-source TypeScript security scanner for Model Context Protocol configs. Catches tool poisoning, prompt injection, credential leakage, data exfiltration, and supply-chain risk. On [npm](https://www.npmjs.com/package/mcp-scan), SARIF 2.1.0 output, Homebrew tap. `npx mcp-scan@latest`
 
-**[ProTeach](https://proteachhomelearning.com)** — homeschool platform: certified teachers craft weekly lessons per child, 17 learning games, realtime chat, portals for parents/kids/teachers.
+**[ProTeach](https://proteachhomelearning.com)**: homeschool platform where certified teachers craft weekly lessons per child, with 17 learning games, realtime chat, and portals for parents, kids, and teachers.
 
-**[rag-eval-toolkit](https://pypi.org/project/rag-eval-toolkit/)** — Python toolkit for evaluating RAG pipelines: LLM-as-judge scoring, retrieval metrics, hallucination checks. On [PyPI](https://pypi.org/project/rag-eval-toolkit/), MIT. `pip install rag-eval-toolkit`
+**[rag-eval-toolkit](https://pypi.org/project/rag-eval-toolkit/)**: Python toolkit for evaluating RAG pipelines with LLM-as-judge scoring, retrieval metrics, and hallucination checks. On [PyPI](https://pypi.org/project/rag-eval-toolkit/), MIT. `pip install rag-eval-toolkit`
 
-**[ThynkQ](https://thynkq.com)** — AI engineering studio: MVP development, AI integration, fractional CTO.
+**[ThynkQ](https://thynkq.com)**: AI engineering studio for MVP development, AI integration, and fractional CTO work.
 
 ---
 
