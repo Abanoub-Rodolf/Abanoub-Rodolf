@@ -16,13 +16,13 @@ I build AI systems people can adopt, operate, and trust. Work spans AI enablemen
 
 ### Projects
 
-**[mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan)** — open-source TypeScript security scanner for Model Context Protocol configs: tool poisoning, prompt injection, credential leakage, data exfiltration, supply-chain risk. On [npm](https://www.npmjs.com/package/mcp-scan), SARIF 2.1.0 output, Homebrew tap. `npx mcp-scan@latest`
+**[mcp-scan](https://github.com/Abanoub-Rodolf/mcp-scan)**: open-source TypeScript security scanner for Model Context Protocol configs. Catches tool poisoning, prompt injection, credential leakage, data exfiltration, and supply-chain risk. On [npm](https://www.npmjs.com/package/mcp-scan), SARIF 2.1.0 output, Homebrew tap. `npx mcp-scan@latest`
 
-**[ProTeach](https://proteachhomelearning.com)** — homeschool platform: certified teachers craft weekly lessons per child, 17 learning games, realtime chat, portals for parents/kids/teachers.
+**[ProTeach](https://proteachhomelearning.com)**: homeschool platform where certified teachers craft weekly lessons per child, with 17 learning games, realtime chat, and portals for parents, kids, and teachers.
 
-**[rag-eval-toolkit](https://pypi.org/project/rag-eval-toolkit/)** — Python toolkit for evaluating RAG pipelines: LLM-as-judge scoring, retrieval metrics, hallucination checks. On [PyPI](https://pypi.org/project/rag-eval-toolkit/), MIT. `pip install rag-eval-toolkit`
+**[rag-eval-toolkit](https://pypi.org/project/rag-eval-toolkit/)**: Python toolkit for evaluating RAG pipelines with LLM-as-judge scoring, retrieval metrics, and hallucination checks. On [PyPI](https://pypi.org/project/rag-eval-toolkit/), MIT. `pip install rag-eval-toolkit`
 
-**[ThynkQ](https://thynkq.com)** — AI engineering studio: MVP development, AI integration, fractional CTO.
+**[ThynkQ](https://thynkq.com)**: AI engineering studio for MVP development, AI integration, and fractional CTO work.
 
 ---
 
