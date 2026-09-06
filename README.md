@@ -1,6 +1,9 @@
-# Abanoub Rodolf Boctor
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abanoub-Rodolf/Abanoub-Rodolf/main/assets/banner-dark.svg">
+  <img alt="Abanoub Rodolf, AI Enablement & Deployment Leader" src="https://raw.githubusercontent.com/Abanoub-Rodolf/Abanoub-Rodolf/main/assets/banner-light.svg" width="100%">
+</picture>
 
-**AI Enablement & Deployment Leader** · Production LLM Systems · Enterprise Adoption · Agents, MCP & Developer Workflows
+Production LLM Systems · Enterprise Adoption · Agents, MCP & Developer Workflows
 
 I build AI systems people can adopt, operate, and trust. Work spans AI enablement, enterprise deployment, agents, RAG evaluation, MCP security, and human-in-the-loop operations. Approach to safety is practical: test real failure modes, protect connected tools and data, preserve human judgment, own what happens after launch.
 
