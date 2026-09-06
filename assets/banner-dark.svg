@@ -1,0 +1,12 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#11161d"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
+  <text x="64" y="130" font-family="-apple-system, 'SF Pro Display', Inter, 'Segoe UI', sans-serif" font-size="46" font-weight="700" fill="#e6edf3">Abanoub Rodolf</text>
+  <text x="64" y="168" font-family="-apple-system, 'SF Pro Display', Inter, 'Segoe UI', sans-serif" font-size="21" font-weight="500" fill="#58a6ff">AI Enablement &amp; Deployment Leader</text>
+  <text x="1136" y="196" text-anchor="end" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="16" fill="#8b949e"><tspan fill="#58a6ff">$</tspan> npx mcp-scan@latest</text>
+</svg>
